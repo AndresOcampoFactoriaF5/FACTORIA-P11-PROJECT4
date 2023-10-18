@@ -69,6 +69,7 @@
 
     .searchIcon {
         padding: 1px 0px 1px 6px;
+        cursor: pointer;
     }
 
 </style>
