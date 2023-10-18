@@ -61,7 +61,7 @@
         justify-content: center;
         align-items: center;
         gap: 10px;
-        border-radius: 2px;
+        border-radius: 4px;
         border: 2px solid #FFF;
         background: rgba(0, 0, 0, 0.00);
         cursor: pointer;
@@ -72,4 +72,11 @@
         cursor: pointer;
     }
 
+    .logIn:hover {
+        border-color: #6F6F81 ;
+    }
+
+    .subscribe:hover {
+        background: #5EFFC3;
+    }
 </style>
