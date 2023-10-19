@@ -3,4 +3,12 @@
 </script>
 
 
-<img src={Logo} alt="Filmin icon">
+<img class="Logo" src={Logo} alt="Filmin icon">
+
+<style>
+
+.Logo {
+    cursor: pointer;
+}
+
+</style>
